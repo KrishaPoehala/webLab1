@@ -5,6 +5,10 @@
     display: flex;
     justify-content: space-between;
 }
+#two{
+    max-width: 30%;
+}
+
 #two, #four{
     background-color: burlywood;
 }
