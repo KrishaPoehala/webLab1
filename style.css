@@ -1,7 +1,10 @@
 #one, #seven{
     background-color: cornflowerblue;
 }
-
+.menu_container{
+    display: flex;
+    justify-content: space-between;
+}
 #two, #four{
     background-color: burlywood;
 }
