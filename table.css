@@ -22,6 +22,12 @@ td {
 	background-color: #aaffaa;
 	height: 50px;
 }
+
+.image{
+	height: 400px;
+}
+
+
 .ends_vertical {
 	height: 110px;
 	background-color: #aaaaff;

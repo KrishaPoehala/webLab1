@@ -38,6 +38,13 @@ main {
 	grid-template-columns: 2fr 3fr 2fr;
     height: 100vh;
 }
+
+
+.image{
+	height: 350px;
+	}
+
+	
 .left {
 	background-color: #ffaa88;
 }
